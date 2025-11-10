@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohit Tiwari
 
-<!--
-**mohittiwari34/mohittiwari34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Developer | JavaScript Learner | Aspiring Full Stack Developer**
 
-Here are some ideas to get you started:
+🚀 I'm currently learning **React, Node.js, and WebSockets** to build real-time apps like my ChatApp project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm Learning
+- JavaScript (ES6+)
+- React & Redux
+- Node.js + Express
+- MongoDB
+- Git & GitHub
+
+### 🛠️ Projects
+- 🗨️ [ChatApp](https://github.com/mohittiwari34/Chatapp) — Real-time chat app using Socket.io and Node.js
+- ✅ [TodoTask](https://github.com/mohittiwari34/TodoTask) — Simple To-Do app built with JavaScript
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-tiwari-7707602a2/)
+- 💻 [GitHub](https://github.com/mohittiwari34)
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohittiwari34&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittiwari34&layout=compact&theme=tokyonight)
